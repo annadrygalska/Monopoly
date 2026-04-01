@@ -99,7 +99,6 @@ ENV/
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-.venv
 pip-selfcheck.json
 
 ### JetBrains template
@@ -170,3 +169,4 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea.idea
+.venv/
